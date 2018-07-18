@@ -16,3 +16,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT12 Actors from Multiple Meshes
 * BT13 Improved Models
 * BT14 Configuring a Tank
+* BT15 3rd Person Camera Control
